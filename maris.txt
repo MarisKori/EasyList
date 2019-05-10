@@ -1,0 +1,60 @@
+
+habr.com##div.content_left > div > div.default-block
+habr.com##div.content_left > div.default-block
+habr.com##div.promo-block
+habr.com##div.post-share
+habr.com##li.content-list__item_post > div.default-block
+habr.com##div.sidebar_right > .default-block:has-text(/Мегапосты/)
+habr.com##article.post_type-voice
+habr.com##.page-header__banner
+habr.com##.tm-typo-form
+
+ru.wikipedia.org###siteNotice
+.wikipedia.org##.flaggedrevs_short_basic
+
+rutracker.org##.top-alert
+rutracker.org###logo
+
+www.mrelko.com
+cm.perfmelab.com
+
+!qaru.site/*.js
+
+rustorka.com###announcements
+rustorka.com###latest_news
+rustorka.com###sidebar1
+
+! 17.10.2018, 0:44:49 http://rustorka.com/forum/index.php
+! rustorka.com##.pad_8.row1.med
+
+github.com###js-flash-container
+
+/^http:\/\/qaru.site\/questions\/\d+\/(.*)$/$rewrite=google.com
+
+.roskomsvoboda.org##li>a[href="/donate/"]
+
+hangouts.google.com
+ssl.gstatic.com/inputtools/*
+www.gstatic.com/og/*
+
+map.projectzomboid.com###footer
+
+nnm-club.me##.b-page_newyear
+
+#nnmclub.to##noindex
+#nnmclub.to##script:contains(adbetnet)
+
+
+
+! Прелоадеры
+###page-preloader
+##.mobile-popup
+
+! 04.05.2019 https://cp1.freehostingeu.com
+cp1.freehostingeu.com###right-area > .ui-corner-all.custom-area table
+cp1.freehostingeu.com###right-area > .ui-corner-all.custom-area br
+
+! 10.05.2019 https://lk.mts.ru
+lk.mts.ru##.popup-modal
+lk.mts.ru##.popup__overlay
+
